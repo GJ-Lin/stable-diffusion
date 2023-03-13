@@ -1,0 +1,4 @@
+.history/
+*.pyc
+models/ldm/stable-diffusion-v1/
+latent_diffusion.egg-info/
